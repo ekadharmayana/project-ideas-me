@@ -31,10 +31,11 @@ Turn ideas into real projects
 - **Step 4:** Update README table
 
 ## Folder Structure
+```text
 project-ideas/
 │
 ├── README.md
-├── ideas/   (active ideas)
+├── ideas/ (Active ideas)
 │   ├── idea-template.md
 │   ├── ai-note-assistant.md
 │   ├── fitness-tracker-app.md
@@ -42,4 +43,4 @@ project-ideas/
 │
 ├── archived/ (Canceled or finished ideas)
 │
-└── resources/(Links, research, inspiration)
+└── resources/ (Links, research, inspiration)
