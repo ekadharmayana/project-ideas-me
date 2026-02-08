@@ -29,3 +29,17 @@ Turn ideas into real projects
 - **Step 2:** Copy template
 - **Step 3:** Fill quickly (5-10 minutes is enough)
 - **Step 4:** Update README table
+
+## Folder Structure
+project-ideas/
+│
+├── README.md
+├── ideas/   (active ideas)
+│   ├── idea-template.md
+│   ├── ai-note-assistant.md
+│   ├── fitness-tracker-app.md
+│   └── ...
+│
+├── archived/ (Canceled or finished ideas)
+│
+└── resources/(Links, research, inspiration)
