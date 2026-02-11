@@ -12,6 +12,7 @@ The goal is to:
 | Idea | Status | Difficulty | Tech |
 |------|--------|------------|------|
 |Laptop as a server|Concept|unknown|unknown|
+|Instagram automation|Concept|unknown|unknown|
 
 ## Status
 - Concept -> Raw idea
